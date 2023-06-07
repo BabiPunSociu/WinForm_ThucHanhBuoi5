@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\bin\Debug\ThucHanhBuoi5.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\bin\Debug\ThucHanhBuoi5.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\bin\Debug\ThucHanhBuoi5.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.frmHang.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.frmLogin.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi5\ThucHanhBuoi5\ThucHanhBuoi5\obj\Debug\ThucHanhBuoi5.pdb
